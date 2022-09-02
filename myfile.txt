@@ -1,0 +1,7 @@
+Java is easy to learn.
+Java was designed to be easy to use and Its has good tools which support easy to write, debug and compile.
+
+Java is object-oriented.
+java is a full object oriented.
+
+Java is platform-independent.
